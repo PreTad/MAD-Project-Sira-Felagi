@@ -24,7 +24,7 @@ By offering a simple, fast, and accessible mobile platform, **Sira Felagi** revo
 ---
 
 ## 🎨 Figma Design Board
-[👉 View our Figma Board]([https://www.figma.com/design/UzbFLvi5wfjZnpgRYfE7MI/Sira-Felagi---Job-Portal-App-Design-UI?node-id=0-1&t=MFpHHZNIjKV8ZukN-1](https://www.figma.com/design/UPD217QIeVYa7Kv5QGdfIf/Sira-Felagi-Job-Portal-App-Design-UI?node-id=0-1&t=yOr12ZH4Bg7fOPrM-1))
+[👉 View our Figma Board](https://www.figma.com/design/UPD217QIeVYa7Kv5QGdfIf/Sira-Felagi-Job-Portal-App-Design-UI?node-id=0-1&t=yOr12ZH4Bg7fOPrM-1)
 
 ---
 
